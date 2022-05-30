@@ -17,13 +17,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://github.com/deepken/jmshaker/raw/master/logo_esco.png</string>
+                    <string>https://github.com/crystaljmios/jmshaker/blob/main/logo_esco.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://github.com/deepken/jmshaker/raw/master/logo_esco.png</string>
+                    <string>https://github.com/crystaljmios/jmshaker/blob/main/logo_esco.png</string>
                 </dict>
             </array>
             <key>metadata</key>
